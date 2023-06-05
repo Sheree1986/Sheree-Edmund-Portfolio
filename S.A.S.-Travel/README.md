@@ -1,7 +1,20 @@
-
-# S.A.S Travel Journal
+# S.A.S Travel Journal - Project #3
 This is a travel journal, fullstack project, containing a user perspective
- and also an admin perspective:
+ and also an admin perspective.
+
+## Situation
+Welcome to High-Paw, where Dog Meets World! A fullstack web application where owner can create doggie playdates. Using a third party mapping Api a user can add a pin to the map to create a new hangout. Once created other user are able to view and/or join the hangout. 
+
+
+## Task
+The project folder structure is as followed:
+
+
+
+## Action 
+
+## Result 
+
 
 
 # Features
