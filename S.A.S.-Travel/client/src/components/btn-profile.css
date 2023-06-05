@@ -1,0 +1,219 @@
+.group-btn {
+    display: flex;
+    justify-content: center;
+    gap: 4em;
+    margin-top: 4em;
+  }
+  .delete,
+  .add {
+    width: 10em;
+    padding: 0.8em;
+    border-radius: 5px;
+    border: none;
+    font-weight: 600;
+    letter-spacing: 2px;
+    overflow: hidden;
+    transition: 0.5s;
+    /* color: #eaf3ec; */
+    background: none;
+    outline: none;
+    position: relative;
+    cursor: pointer;
+  }
+  /* --------btn delete--------------- */
+  .delete {
+    color: red;
+  }
+  .delete:hover {
+    background: red;
+    color: #eaf3ec;
+    box-shadow: 0 0 5px red, 0 0 25px red, 0 0 50px red,
+      0 0 100px red;
+  }
+  
+  .add {
+    color: green;
+  }
+  
+  .add:hover {
+    background: rgba(0, 255, 0, 0.6);
+    color: #eaf3ec;
+    box-shadow: 0 0 5px rgba(0, 255, 0, 0.6), 0 0 25px rgba(0, 255, 0, 0.6),
+      0 0 50px rgba(0, 255, 0, 0.6), 0 0 100px rgba(0, 255, 0, 0.6);
+  }
+  /* login register anim */
+  .btn--anim {
+    position: absolute;
+    display: block;
+  }
+  
+  .btn--anim:nth-child(1) {
+    top: 0;
+    left: -100%;
+    height: 2px;
+    width: 100%;
+    background: linear-gradient(90deg, transparent, red);
+    animation: btn-animation1 1s linear infinite;
+  }
+  
+  @keyframes btn-animation1 {
+    0% {
+      left: -100%;
+      background: linear-gradient(90deg, transparent, red);
+    }
+    50%,
+    100% {
+      left: 100%;
+      background: linear-gradient(90deg, transparent, red);
+    }
+  }
+  
+  .btn--anim:nth-child(2) {
+    top: -100%;
+    right: 0;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(180deg, transparent, red);
+    animation: btn-animation2 1s linear infinite;
+    animation-delay: 0.25s;
+  }
+  
+  @keyframes btn-animation2 {
+    0% {
+      top: -100%;
+    }
+    50%,
+    100% {
+      top: 100%;
+    }
+  }
+  
+  .btn--anim:nth-child(3) {
+    bottom: 0;
+    right: -100%;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(270deg, transparent, red);
+    animation: btn-animation3 1s linear infinite;
+    animation-delay: 0.5s;
+  }
+  
+  @keyframes btn-animation3 {
+    0% {
+      right: -100%;
+    }
+    50%,
+    100% {
+      right: 100%;
+    }
+  }
+  
+  .btn--anim:nth-child(4) {
+    bottom: -100%;
+    left: 0;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(360deg, transparent, red);
+    animation: btn-animation4 1s linear infinite;
+    animation-delay: 0.75s;
+  }
+  
+  @keyframes btn-animation4 {
+    0% {
+      bottom: -100%;
+    }
+    50%,
+    100% {
+      bottom: 100%;
+    }
+  }
+
+  .btn--anim:nth-child(1):hover .btn--anim:nth-child(2):hover .btn--anim:nth-child(3):hover
+  .btn--anim:nth-child(4):hover {
+    color: red;
+  }
+  /* ----------------------------- */
+  /* register anim */
+  .btn--anim1 {
+    position: absolute;
+    display: block;
+  }
+  
+  .btn--anim1:nth-child(1) {
+    top: 0;
+    left: -100%;
+    height: 2px;
+    width: 100%;
+    background: linear-gradient(90deg, transparent, #eaf3ec);
+    animation: btn-animation1 1.4s linear infinite;
+  }
+  
+  @keyframes btn-animation1 {
+    0% {
+      left: -100%;
+    }
+    50%,
+    100% {
+      left: 100%;
+    }
+  }
+  
+  .btn--anim1:nth-child(2) {
+    top: -100%;
+    right: 0;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(180deg, transparent, #eaf3ec);
+    animation: btn-animation2 1.4s linear infinite;
+    animation-delay: 0.25s;
+  }
+  
+  @keyframes btn-animation2 {
+    0% {
+      top: -100%;
+    }
+    50%,
+    100% {
+      top: 100%;
+    }
+  }
+  
+  .btn--anim1:nth-child(3) {
+    bottom: 0;
+    right: -100%;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(270deg, transparent, #eaf3ec);
+    animation: btn-animation3 1.4s linear infinite;
+    animation-delay: 0.5s;
+  }
+  
+  @keyframes btn-animation3 {
+    0% {
+      right: -100%;
+    }
+    50%,
+    100% {
+      right: 100%;
+    }
+  }
+  
+  .btn--anim1:nth-child(4) {
+    bottom: -100%;
+    left: 0;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(360deg, transparent, #eaf3ec);
+    animation: btn-animation4 1.4s linear infinite;
+    animation-delay: 0.75s;
+  }
+  
+  @keyframes btn-animation4 {
+    0% {
+      bottom: -100%;
+    }
+    50%,
+    100% {
+      bottom: 100%;
+    }
+  }

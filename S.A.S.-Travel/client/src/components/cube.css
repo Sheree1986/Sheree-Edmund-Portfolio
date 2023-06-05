@@ -1,0 +1,103 @@
+.page-container {
+    margin: 0 auto;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    perspective: 100em;
+    perspective-origin: 77px -230px;
+    position: relative;
+  }
+  
+  /* ===========cube============= */
+  .cube {
+    position: relative;
+    transform-style: preserve-3d;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    animation: spin-cube 25s linear infinite;
+    margin-top: 6em;
+    /* margin-bottom: -5em; */
+    /* margin-left: 30%; */
+  }
+  
+  /* animation spin cube */
+  @keyframes spin-cube {
+    to {
+      transform: rotateY(360deg);
+    }
+  }
+  .cube-shadow {
+    margin-top: -5em;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 10em;
+    height: 10em;
+    background: #113719;
+    transform: rotateX(90deg) translateZ(-12em) translateX(-5em);
+    filter: blur(20px);
+    box-shadow: 0 0 120px rgba(0, 255, 0, 0.2), 0 0 200px rgba(0, 255, 0, 0.4),
+      0 0 300px rgba(0, 255, 0, 0.6), 0 0 400px rgba(0, 255, 0, 0.8),
+      0 0 500px rgba(0, 255, 0, 1);
+  }
+  
+  .top,
+  .bottom,
+  .left,
+  .right,
+  .front,
+  .back {
+    height: 10em;
+    width: 10em;
+    background: #2b8a3e;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    box-shadow: 0 0 50px 10px #1a1a1a inset;
+    cursor: pointer;
+  }
+  
+  .front {
+    transform: translateZ(5em);
+    background-image: url(../assets/images/front.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .back {
+    transform: translateZ(-5em);
+    background-image: url(../assets/images/back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .top {
+    transform: translateY(-5em) rotateX(90deg);
+    background-image: url(../assets/images/top.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .bottom {
+    transform: translateY(-5em) rotateX(90deg);
+    /* background-image: url(../assets/images/egypt-cube.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .right {
+    transform: translateX(5em) rotateY(90deg);
+    background-image: url(../assets/images/right.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .left {
+    transform: translateX(-5em) rotateY(90deg);
+    background-image: url(../assets/images/left.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
