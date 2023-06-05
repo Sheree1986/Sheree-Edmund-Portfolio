@@ -5,12 +5,14 @@
 This python application take a spin on the classic game of hangman. Sailor Moon is one of my first and all time favorite anime. 
 Instead of the tradition "hanging", it is replaced with a transformation. In order to win a user has 10 attempts to guess the correct word 
 before Sailor Moon completes her transformation.
+
 ## Situation
 Welcome to High-Paw, where Dog Meets World! A fullstack web application where owner can create doggie playdates. Using a third party mapping Api a user can add a pin to the map to create a new hangout. Once created other user are able to view and/or join the hangout. 
 
 
 ## Task
 The project folder structure is as followed:
+
 
 
 

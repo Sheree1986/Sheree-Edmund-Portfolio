@@ -17,5 +17,5 @@ During the apprenticeship I worked on the following teams:
 - **My Hero Academia**: Igmer, Sharee
 - **High-Paw**: Patrick, Kharmalina, and Adrian
 
-At Verizon I am part of the IOP team that supports the switch engineers here at Verizon. During the apprenticeship I was able to learn about the IOP Switch Module and how it helps switch engineers do their jobs to build/maintain our network. I started working with the Shapeshifters Scrum Team within Network Assurance ART. (Agile Release Train). There I gained an understanding of how the Agile process works. From the Agile ceremonies to gathering requirements and to how we design and develop the solutions into production. 
+At Verizon I am part of the IOP team that supports the switch engineers here at Verizon. During the apprenticeship I was able to learn about the IOP Switch Module and how it helps switch engineers do their jobs to build/maintain our network. I started working with the Shape Shifters Scrum Team within Network Assurance ART. (Agile Release Train). There I gained an understanding of how the Agile process works. From the Agile ceremonies to gathering requirements and to how we design and develop the solutions into production. 
 
