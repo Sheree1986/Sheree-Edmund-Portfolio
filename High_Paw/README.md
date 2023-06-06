@@ -24,11 +24,11 @@ Welcome to High-Paw, where Dog Meets World! A fullstack web application where ow
 
 This project fulfill job function 1 through 6 as a Fullstack MERN Application:
 
-**This includes:**: 
+**This includes the following competencies:**: 
 
 <details>
 
-🐾 JF 1.1 Can explain all stages of the software development life cycle (what each stage contains, including the    inputs and outputs)
+🐾 JF 1.1 Can explain all stages of the software development life cycle (what each stage contains, including the inputs and outputs)
 🐾 JF 1.5 Can follow software designs and functional/technical specifications	
 🐾 JF 1.6 Can follow company, team or client approaches to continuous integration, version and source control				
 
@@ -54,15 +54,35 @@ This project fulfill job function 1 through 6 as a Fullstack MERN Application:
 🐾 JF 6.4 Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk, and stays motivated and committed when facing challenges				
 🐾 JF 6.6 Shows initiative for solving problems within their own remit, being resourceful when faced with a problem to solve				
 
-
 </details>
 
 
 
 ## Action 
 
+<details>
+🐾 In this team of four, I was worked with Adrian on the Frontend. We mainly peer coded. My main contribution to the project was Using the DOG API to render the fact page and creating the profile page. Refactoring code and implementing the basic structure for the frontend. Adrian is the mastermind that build upon the structure to create the user interact and visible appealing design. 
+
+
+🐾 Worked collaborated with the backend (Patrick and Kharmalina) to connect the login and registration routes. 
+
+🐾 Focused on debugging an issues with deleting the refresh token upon user logout.
+
+🐾 Attempted to implement frontend testing. Unfortunately testing on .jsx files were a blocker. 
+
+</details>
+
+
+
+
+
 
 ## Result 
+
+**Links**
+
+ 🐾 [Website](https://high-paw-ugau.onrender.com/)
+ 🐾 [Video Presentation](https://www.youtube.com/watch?v=b6yPHPoDQ2Y)
 
 
 ## Features
@@ -117,7 +137,29 @@ Install High Paw with Docker Compose
 ```
 
 ## Technology 
+
+**Frontend**
 <details>
+🐾 React
+🐾 Tailwind CSS
+🐾 Cloudinary
+</details>
+
+**Backend**
+<details>
+🐾 express
+🐾 jsonwebtoken
+🐾 @hapi/joi
+🐾 bcrypt
+🐾 mongoose
+🐾 Database
+🐾 MongoDB
+</details>
+
+**Deployment**
+<details>
+🐾 Railway (backend)
+🐾 Render (frontend)
 </details>
 
 ## Authors
