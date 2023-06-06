@@ -29,29 +29,42 @@ This project fulfill job function 1 through 6 as a Fullstack MERN Application:
 <details>
 
 🐾 JF 1.1 Can explain all stages of the software development life cycle (what each stage contains, including the inputs and outputs)
+   
 🐾 JF 1.5 Can follow software designs and functional/technical specifications	
+   
 🐾 JF 1.6 Can follow company, team or client approaches to continuous integration, version and source control				
 
 🐾 JF 2.2 Can identify relevant and up-to-date software designs and how to read and implement functional/technical specifications
+   
 🐾 JF 2.3 Can develop effective user interfaces
+   
 🐾 JF 2.8 Can translate wireframes into User Interfaces				
 
 
-🐾 JF 3.2 Can explain the principles and uses of relational and non-relational databases.
+🐾 JF 3.2 Can explain the principles and uses of relational and non-relational databases
+   
 🐾 JF 3.6 Can implement a RESTful API
+   
 🐾 JF 3.7 Can implement authentication and authorization to an API
+   
 🐾 JF 3.8 Can encrypt sensitive data via hashing
 
 🐾 JF 4.2 Can explain organizational policies and procedures relating to the tasks being undertaken, and when to follow them. For example, the storage and treatment of sensitive data			
-🐾 JF 4.3 Is able to build, manage and deploy code into the relevant environment				
+   
+🐾 JF 4.3 Is able to build, manage and deploy code into the relevant environment		
+   
 🐾 JF 4.8 Can identify and create test scenarios
 
 🐾 JF 5.1 Knows relevant and up-to-date software testing frameworks and methodologies
+   
 🐾 JF 5.4 Understands and is able to identify and create test scenarios
+   
 🐾 JF 5.6 Understands how to follow testing frameworks and methodologies
 
 🐾 JF 6.3 Able to communicate software solutions and ideas to technical and non-technical stakeholders
+   
 🐾 JF 6.4 Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk, and stays motivated and committed when facing challenges				
+   
 🐾 JF 6.6 Shows initiative for solving problems within their own remit, being resourceful when faced with a problem to solve				
 
 </details>
@@ -82,6 +95,7 @@ This project fulfill job function 1 through 6 as a Fullstack MERN Application:
 **Links**
 
  🐾 [Website](https://high-paw-ugau.onrender.com/)
+ 
  🐾 [Video Presentation](https://www.youtube.com/watch?v=b6yPHPoDQ2Y)
 
 
@@ -141,24 +155,33 @@ Install High Paw with Docker Compose
 **Frontend**
 <details>
 🐾 React
+   
 🐾 Tailwind CSS
+   
 🐾 Cloudinary
 </details>
 
 **Backend**
 <details>
 🐾 express
+   
 🐾 jsonwebtoken
+   
 🐾 @hapi/joi
+   
 🐾 bcrypt
+   
 🐾 mongoose
+   
 🐾 Database
+   
 🐾 MongoDB
 </details>
 
 **Deployment**
 <details>
 🐾 Railway (backend)
+   
 🐾 Render (frontend)
 </details>
 
