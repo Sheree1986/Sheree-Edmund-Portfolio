@@ -187,6 +187,7 @@ while run:
             break
                 
 # to see if game is loss
+# range is 11 so this is the correct number of clicks and pic.
     if game_status == 11:
         won_lost_message("Game Over: Usagi is a crybaby. The correct word is: " + word)
         win.blit(sm_gf, (300, 60))
