@@ -61,8 +61,9 @@ This project fulfill job function 1, 2 and 6 as a Fullstack MERN Application:
 
 
 ## Result 
-🌙 [Video](https://www.youtube.com/watch?v=Z9r3lrbA_Tk)
-🌙 [Replit Website](Replit](https://replit.com/@Sheree1986/MoonKingdom#main.py)
+🌙 [Video Presentation](https://www.youtube.com/watch?v=Z9r3lrbA_Tk)
+
+🌙 [Replit Website](https://replit.com/@Sheree1986/MoonKingdom#main.py)
 
 
 
