@@ -2,28 +2,70 @@
 
 
 
-This python application take a spin on the classic game of hangman. Sailor Moon is one of my first and all time favorite anime. 
-Instead of the tradition "hanging", it is replaced with a transformation. In order to win a user has 10 attempts to guess the correct word 
-before Sailor Moon completes her transformation.
-
 ## Situation
-Welcome to High-Paw, where Dog Meets World! A fullstack web application where owner can create doggie playdates. Using a third party mapping Api a user can add a pin to the map to create a new hangout. Once created other user are able to view and/or join the hangout. 
 
+Was task with learning a new language based on manager requirements through self study. This python application take a spin on the classic game of hangman. Sailor Moon is one of my first and all time favorite anime. Instead of the tradition "hanging", it is replaced with a transformation. In order to win a user has 10 attempts to guess the correct word 
+before Sailor Moon completes her transformation.
 
 ## Task
 The project folder structure is as followed:
 
+<details>
 
+   🌙 assets
+
+   🌙 Photo not used
+
+   🌙 requirement.text
+
+   🌙 runtime.txt
+
+   🌙 main.py
+   
+   🌙 button.py
+</details>
+
+
+
+This project fulfill job function 1, 2 and 6 as a Fullstack MERN Application:
+
+**This includes the following competencies:**: 
+
+<details>
+
+🌙 JF 1.1 Can explain all stages of the software development life cycle (what each stage contains, including the inputs and outputs)
+   
+🌙 JF 1.5 Can follow software designs and functional/technical specifications		
+
+
+🌙 JF 2.2 Can identify relevant and up-to-date software designs and how to read and implement functional/technical specifications
+   
+🌙 JF 2.3 Can develop effective user interfaces
+   
+
+🌙 JF 6.3 Able to communicate software solutions and ideas to technical and non-technical stakeholders
+   
+🌙 JF 6.4 Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk, and stays motivated and committed when facing challenges				
+   
+🌙 JF 6.6 Shows initiative for solving problems within their own remit, being resourceful when faced with a problem to solve				
+
+</details>
 
 
 ## Action 
+🌙 Took a self study Python course on the Verizon learning platform
+🌙 Watch Video tutorial for the basic of hangman
+🌙 Designed the functionality of my version of hangman (transformation)
+🌙 Learned how to use pygame library to include music into game
+
+
 
 ## Result 
+🌙 [Replit Website]( [Replit](https://replit.com/@Sheree1986/MoonKingdom#main.py))
 
 
 
 # Features
-
 
 #### Shoot for the Stars
 Sailor Moon theme hangman game.  Where as the player guesses wrong Sailor Moon completes her Moon Prism Power Make UP transformation. When the transformation is completed the player losses. The original opening theme song is the background music. Other sounds play when guess is correct or incorrect. The win screen and the lost screen will have different gifs and messages. There will be two player functionality and buttons to quit, start, replay. The ability to keep score if there are two players.
