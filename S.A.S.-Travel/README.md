@@ -3,18 +3,80 @@ This is a travel journal, fullstack project, containing a user perspective
  and also an admin perspective.
 
 ## Situation
-Welcome to High-Paw, where Dog Meets World! A fullstack web application where owner can create doggie playdates. Using a third party mapping Api a user can add a pin to the map to create a new hangout. Once created other user are able to view and/or join the hangout. 
+“Welcome to our travel blog. We created this backend application to create a community where
+multiverse apprentices can share their travel journeys while learning how to" + `${area of study}`
 
 
 ## Task
-The project folder structure is as followed:
+**The project folder structure is as followed:**
+
+<details>
+
+    ✈️ client
+ 
+    ✈️ server
+
+    ✈️ .github/workflows
+
+</details>
 
 
+
+This project fulfill job function 1, 2, 3 and 6 as a Fullstack MERN Application:
+
+**This includes the following competencies:**: 
+
+<details>
+
+✈️ JF 1.1 Can explain all stages of the software development life cycle (what each stage contains, including the inputs and outputs)
+   
+✈️ JF 1.5 Can follow software designs and functional/technical specifications		
+
+
+✈️ JF 2.2 Can identify relevant and up-to-date software designs and how to read and implement functional/technical specifications
+   
+✈️ JF 2.3 Can develop effective user interfaces
+   
+✈️ JF 2.8 Can translate wireframes into User Interfaces				
+
+
+✈️ JF 3.2 Can explain the principles and uses of relational and non-relational databases
+   
+✈️ JF 3.6 Can implement a RESTful API
+   
+✈️ JF 3.7 Can implement authentication and authorization to an API
+   
+✈️ JF 3.8 Can encrypt sensitive data via hashing
+
+
+✈️ JF 6.3 Able to communicate software solutions and ideas to technical and non-technical stakeholders
+   
+✈️ JF 6.4 Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk, and stays motivated and committed when facing challenges				
+   
+✈️ JF 6.6 Shows initiative for solving problems within their own remit, being resourceful when faced with a problem to solve				
+
+</details>
 
 ## Action 
 
-## Result 
+<details>
+✈️ Peered program with Sharee to complete the backend. Worked on the controller, models, routes and middleware
 
+✈️ Refactored the code to debug login/registration issues with the frontend
+
+✈️ Learning how to access mongoose db via the cloud (Atlas)
+
+✈️ Deployed the website on render and railways
+
+
+</details>
+
+
+
+## Result 
+✈️ [Website]()
+
+✈️ [Video Presentation](https://drive.google.com/file/d/1CGLivEK-sHNQTIXRuheKA7hG44hmLYXy/view?usp=sharing)
 
 
 # Features
