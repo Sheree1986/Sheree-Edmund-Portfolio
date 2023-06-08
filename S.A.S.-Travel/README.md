@@ -28,32 +28,31 @@ This project fulfill job function 1, 2, 3 and 6 as a Fullstack MERN Application:
 
 <details>
 
-✈️ JF 1.1 Can explain all stages of the software development life cycle (what each stage contains, including the inputs and outputs)
+✈️ JF 1.1 Can explain all stages of the software development life cycle (what each stage contains, including the inputs and outputs). This project we completed a Fullstack Mern Application. 
    
-✈️ JF 1.5 Can follow software designs and functional/technical specifications		
+✈️ JF 1.5 Can follow software designs and functional/technical specifications. From the wireframe. To following the user stories to completing the project MVP. 
 
 
-✈️ JF 2.2 Can identify relevant and up-to-date software designs and how to read and implement functional/technical specifications
+✈️ JF 2.2 Can identify relevant and up-to-date software designs and how to read and implement functional/technical specifications. Yes, React-Router-Dom and make sure each member team member had the right version of the dependencies.
    
-✈️ JF 2.3 Can develop effective user interfaces
+✈️ JF 2.3 Can develop effective user interfaces. Created the routes for the users to login and register. On the frontend Adrian completed the user interfaces. Along with the awesome spinning cube. 
    
-✈️ JF 2.8 Can translate wireframes into User Interfaces				
+✈️ JF 2.8 Can translate wireframes into User Interfaces. Yes, please see JF 2.3.			
 
 
-✈️ JF 3.2 Can explain the principles and uses of relational and non-relational databases
+✈️ JF 3.2 Can explain the principles and uses of relational and non-relational databases. We used MongoDB Atlas to implement the database in this group project. 
    
-✈️ JF 3.6 Can implement a RESTful API
+✈️ JF 3.6 Can implement a RESTful API. Sharee and I worked on the backend creating the routes, controller and models needed for the RESTful API. We used hashing via bcrypt in addition to .env variable.
+
+✈️ JF 3.7 Can implement authentication and authorization to an API. See JF 3.6.
    
-✈️ JF 3.7 Can implement authentication and authorization to an API
-   
-✈️ JF 3.8 Can encrypt sensitive data via hashing
+✈️ JF 3.8 Can encrypt sensitive data via hashing. See JF 3.6.
 
 
-✈️ JF 6.3 Able to communicate software solutions and ideas to technical and non-technical stakeholders
+✈️ JF 6.3 Able to communicate software solutions and ideas to technical and non-technical stakeholders. This is demonstrated in the video presentation. 
    
-✈️ JF 6.4 Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk, and stays motivated and committed when facing challenges				
-   
-✈️ JF 6.6 Shows initiative for solving problems within their own remit, being resourceful when faced with a problem to solve				
+✈️ JF 6.4 Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk, and stays motivated and committed when facing challenges. Learning curving using MongoDB Atlas for the first time. We overhaul Sequelize to allow for better collaboration and ability to see input and DB updates in realtime. 
+   		
 
 </details>
 
@@ -77,6 +76,36 @@ This project fulfill job function 1, 2, 3 and 6 as a Fullstack MERN Application:
 ✈️ [Website]()
 
 ✈️ [Video Presentation](https://drive.google.com/file/d/1CGLivEK-sHNQTIXRuheKA7hG44hmLYXy/view?usp=sharing)
+
+## Technology 
+
+**Frontend**
+<details>
+✈️ React
+   
+✈️ Bootstrap
+
+</details>
+
+**Backend**
+<details>
+✈️ express
+   
+✈️ jsonwebtoken
+   
+✈️ bcrypt
+   
+✈️ mongoose
+   
+✈️ MongoDB
+</details>
+
+**Deployment**
+<details>
+✈️ Railway (backend)
+   
+✈️ Render (frontend)
+</details>
 
 
 # Features
