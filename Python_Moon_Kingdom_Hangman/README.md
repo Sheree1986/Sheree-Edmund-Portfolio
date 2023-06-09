@@ -4,7 +4,7 @@
 
 ## Situation
 
-Was task with learning a new language based on manager requirements through self study. This python application take a spin on the classic game of hangman. Sailor Moon is one of my first and all time favorite anime. Instead of the tradition "hanging", it is replaced with a transformation. In order to win a user has 10 attempts to guess the correct word 
+Was tasked with learning a new language based on manager requirements through self-study. This Python application takes a spin on the classic game of hangman. Sailor Moon is one of my first and all-time favorite anime. Instead of the traditional "hanging", it is replaced with a transformation. To win a user has 10 attempts to guess the correct word 
 before Sailor Moon completes her transformation.
 
 ## Task
@@ -27,33 +27,33 @@ The project folder structure is as followed:
 
 
 
-This project fulfill job function 1, 2 and 6 as a Fullstack MERN Application:
+This project fulfills job functions 1, 2, and 6 as a Fullstack MERN Application:
 
 **This includes the following competencies:**: 
 
 <details>
 
-🌙 JF 1.1 Can explain all stages of the software development life cycle (what each stage contains, including the inputs and outputs). Yes, deployment of this application was the most difficult. In the end I used Replit to run/host the game. 
+🌙 JF 1.1 Can explain all stages of the software development life cycle (what each stage contains, including the inputs and outputs). Yes, the deployment of this application was the most difficult. In the end, I used Replit to run/host the game. 
    
-🌙 JF 1.5 Can follow software designs and functional/technical specifications. Learning python was very fun. It took a while to get used to the spacing/tabbing requirements but with practice I was able to learn and grow. This project was completely designed by me, so I was able to implement the specifications. 	
+🌙 JF 1.5 Can follow software designs and functional/technical specifications. Learning Python was very fun. It took a while to get used to the spacing/tabbing requirements but with practice, I was able to learn and grow. This project was completely designed by me, so I was able to implement the specifications. 	
 
 
-🌙 JF 2.2 Can identify relevant and up-to-date software designs and how to read and implement functional/technical specifications. For the portfolio I had to update pygame to get the application running locally. The replit "deployment" had no such issue.
-   
-🌙 JF 2.3 Can develop effective user interfaces. This was the most fun project to work on. I got to learn a new language and make a classic game with my own spin. Using Pygame allows for musics and other sound effect to get the user engaged. A future implementation would be the mute bottom and two player functionality with score keeping.
+🌙 JF 2.2 Can identify relevant and up-to-date software designs and how to read and implement functional/technical specifications. For the portfolio, I had to update pygame to get the application running locally. The replit "deployment" had no such issue.
+
+🌙 JF 2.3 Can develop effective user interfaces. This was the most fun project to work on. I got to learn a new language and make a classic game with my spin. Using Pygame allows for music and other sound effects to get the user engaged. A future implementation would be the mute button and two-player functionality with scorekeeping.
    
 
 🌙 JF 6.3 Able to communicate software solutions and ideas to technical and non-technical stakeholders. This was done through the video presentation.
    
-🌙 JF 6.4 Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk, and stays motivated and committed when facing challenges. A Kanban board wasn't used for this project but I did follow the user stories as a guideline for what needed to be accomplished to marked this project as done.		
+🌙 JF 6.4 Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk, and stays motivated and committed when facing challenges. A Kanban board wasn't used for this project but I did follow the user stories as a guideline for what needed to be accomplished to mark this project as done.		
    
-🌙 JF 6.6 Shows initiative for solving problems within their own remit, being resourceful when faced with a problem to solve. Under the struggles sections of the original readme I outlined how the restart button issue was solved.				
+🌙 JF 6.6 Shows initiative for solving problems within their own remit, being resourceful when faced with a problem to solve. Under the struggles sections of the original readme, I outlined how the restart button issue was solved.				
 
 </details>
 
 
 ## Action 
-🌙 Took a self study Python course on the Verizon learning platform
+🌙 Took a self-study Python course on the Verizon learning platform
 
 🌙 Watch Video tutorial for the basic of hangman
 
